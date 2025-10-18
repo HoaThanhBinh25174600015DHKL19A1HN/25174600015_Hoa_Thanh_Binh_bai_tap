@@ -1,1 +1,1 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Đây là nội dung mới trên branch_1, sẽ gây xung đột.
